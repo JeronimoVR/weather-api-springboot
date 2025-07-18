@@ -1,6 +1,6 @@
 # 🌦️ Weather API - Spring Boot
 
-Este proyecto implementa una API REST que consulta y devuelve información del clima desde una API externa (**Visual Crossing**), utilizando caché con **Redis** y **limitación de velocidad** (rate limiting).
+Este proyecto propuesto en (**https://roadmap.sh/projects/weather-api-wrapper-service**)implementa una API REST que consulta y devuelve información del clima desde una API externa (**Visual Crossing**), utilizando caché con **Redis** y **limitación de velocidad** (rate limiting).
 
 ---
 
@@ -20,10 +20,10 @@ Este proyecto implementa una API REST que consulta y devuelve información del c
 
 ### 1. Clonar el repositorio
 
-\`\`\`bash
+```bash
 git clone https://github.com/JeronimoVR/weather-api-springboot.git
 cd weather-api-springboot
-\`\`\`
+```
 
 ### 2. Configurar el archivo \`application.properties\`
 
